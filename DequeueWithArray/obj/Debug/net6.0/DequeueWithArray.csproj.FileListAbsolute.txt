@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\DequeueWithArray.exe
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\DequeueWithArray.deps.json
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\DequeueWithArray.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\DequeueWithArray.dll
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\ref\DequeueWithArray.dll
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\bin\Debug\net6.0\DequeueWithArray.pdb
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.dll
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\ref\DequeueWithArray.dll
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.pdb
+C:\Users\Mahdi\Desktop\Reza Files\DequeueWithArray\obj\Debug\net6.0\DequeueWithArray.genruntimeconfig.cache
